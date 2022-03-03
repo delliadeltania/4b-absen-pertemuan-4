@@ -19,3 +19,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Annisa Rahma Putri] | [2010631170055]
 - Ardianto Nugroho | 2010631170056
 - [Irna Purnahasanah] [2010631170014]
+- [Dellia Deltania] [2010631170063]
