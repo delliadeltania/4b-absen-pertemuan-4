@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 4
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Dwi Putra Ardiansyah] | [2010631170142]
 - [Diki Candra Permana Yuda] | [2010631170064
 - [Elvin Alan Pratama] | [2010631170065]
 - [Bayu WIldan Bahari] | [2010631170059]
