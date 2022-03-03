@@ -17,4 +17,5 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Dela Amaliya] | [2010631170062]
 - [Irfan Maulana] | [2010631170013]
 - [Annisa Rahma Putri] | [2010631170055]
+- Ardianto Nugroho | 2010631170056
 - [Irna Purnahasanah] [2010631170014]
