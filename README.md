@@ -16,3 +16,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Fadhillah Ramadhan] | [2010631170066]
 - [Dela Amaliya] | [2010631170062]
 - [Irfan Maulana] | [2010631170013]
+- [Annisa Rahma Putri] | [2010631170055]
