@@ -10,6 +10,7 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Faiz Agil Firmansyah] | [2010631170067]
 - Fathimatuz Zahra | 2010631170009
 - [Indira Nur Amalia] | [2010631170011]
+- [Fajar Athariq] | [2010631170068]
 - [Iqbal Kurniawan] | [2010631170012]
 - Fajri Yanti | 2010631170069
 - [Fadhillah Ramadhan] | [2010631170066]
