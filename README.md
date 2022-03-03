@@ -15,3 +15,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - Fajri Yanti | 2010631170069
 - [Fadhillah Ramadhan] | [2010631170066]
 - [Dela Amaliya] | [2010631170062]
+- [Irfan Maulana] | [2010631170013]
